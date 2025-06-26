@@ -1,11 +1,15 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import PronostiekApp from "./App";
+import LoginPage from "./LoginPage"; // <== Dit moet je hebben
+import "./index.css";
 
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import PronostiekApp from './App';
-
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <PronostiekApp />
-  </React.StrictMode>,
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <BrowserRouter>
+    <Routes>
+      <Route path="/login" element={<LoginPage />} />
+      <Route path="/" element={<PronostiekApp />} />
+    </Routes>
+  </BrowserRouter>
 );
