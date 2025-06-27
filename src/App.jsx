@@ -43,8 +43,7 @@ export default function PronostiekApp() {
         setMinPoints(Math.min(...points));
         setMaxPoints(Math.max(...points));
         setMaxPointsFilter(Math.max(...points));
-      })
-      .catch((err) => console.error("Fout bij laden renners:", err));
+      });
   }, []);
 
   useEffect(() => {
@@ -53,6 +52,8 @@ export default function PronostiekApp() {
       if (email) {
         setUserEmail(email);
         loadTeams(email);
+      } else {
+        navigate("/login");
       }
     });
   }, []);
@@ -70,6 +71,14 @@ export default function PronostiekApp() {
   };
 
   const saveTeamToSupabase = async () => {
+    const { data: sessionData } = await supabase.auth.getSession();
+    const email = sessionData?.session?.user?.email;
+
+    if (!email) {
+      navigate("/login");
+      return;
+    }
+
     const cleanedName = teamName.toLowerCase().replace(/[^a-z0-9]/gi, "");
     const now = new Date();
     const fileSuffix = `${String(now.getDate()).padStart(2, "0")}${String(
@@ -79,7 +88,7 @@ export default function PronostiekApp() {
     ).padStart(2, "0")}${String(now.getMinutes()).padStart(2, "0")}`;
 
     const { error } = await supabase.from("teams").upsert({
-      user_email: userEmail,
+      user_email: email,
       team_name: `${cleanedName}-${competition.toLowerCase()}-${fileSuffix}`,
       competition,
       team_data: currentTeam,
@@ -89,14 +98,9 @@ export default function PronostiekApp() {
       setSaveMessage("✅ Je ploeg is opgeslagen!");
       setTimeout(() => setSaveMessage(""), 3000);
     } else {
+      console.error("Fout bij opslaan:", error);
       setSaveMessage("❌ Fout bij opslaan");
     }
-  };
-
-  const handleLogout = async () => {
-    await supabase.auth.signOut();
-    setUserEmail("");
-    navigate("/login");
   };
 
   const canAdd = (r) => {
@@ -143,9 +147,6 @@ export default function PronostiekApp() {
           >
             PRO
           </Button>
-          <Button variant="outline" onClick={handleLogout}>
-            Logout
-          </Button>
         </div>
       </div>
 
@@ -177,27 +178,34 @@ export default function PronostiekApp() {
               </li>
             ))}
           </ul>
-          {isTeamValid ? (
-  <Button onClick={saveTeamToSupabase}>✅ Dien je ploeg in!</Button>
-) : (
-  <div className="text-red-600 font-bold mt-2">
-    ❌ Ploeg nog niet in orde
-    <ul className="list-disc list-inside text-sm font-normal mt-1">
-      {currentTeam.length !== maxRiders && (
-        <li>Je moet exact {maxRiders} renners selecteren (nu: {currentTeam.length}).</li>
-      )}
-      {totalPoints > budgetLimit && (
-        <li>Je overschrijdt het budget van {budgetLimit} punten (nu: {totalPoints}).</li>
-      )}
-      {Object.values(teamCounts).some((c) => c > maxPerTeam) && (
-        <li>Maximaal {maxPerTeam} renners per ploeg toegelaten.</li>
-      )}
-      {teamName.trim().length === 0 && <li>Teamnaam is verplicht.</li>}
-    </ul>
-  </div>
-)}
-{saveMessage && <p className="mt-2">{saveMessage}</p>}
 
+          {isTeamValid ? (
+            <Button onClick={saveTeamToSupabase}>✅ Bevestig ploeg</Button>
+          ) : (
+            <div className="text-red-600 font-bold mt-2">
+              ❌ Ploeg nog niet in orde
+              <ul className="list-disc list-inside text-sm font-normal mt-1">
+                {currentTeam.length !== maxRiders && (
+                  <li>
+                    Je moet exact {maxRiders} renners selecteren (nu:{" "}
+                    {currentTeam.length}).
+                  </li>
+                )}
+                {totalPoints > budgetLimit && (
+                  <li>
+                    Je overschrijdt het budget van {budgetLimit} punten (nu:{" "}
+                    {totalPoints}).
+                  </li>
+                )}
+                {Object.values(teamCounts).some((c) => c > maxPerTeam) && (
+                  <li>Maximaal {maxPerTeam} renners per ploeg toegelaten.</li>
+                )}
+                {teamName.trim().length === 0 && <li>Teamnaam is verplicht.</li>}
+              </ul>
+            </div>
+          )}
+
+          {saveMessage && <p className="mt-2">{saveMessage}</p>}
         </div>
 
         <div>
@@ -230,10 +238,7 @@ export default function PronostiekApp() {
 
           <div className="space-y-2 max-h-[500px] overflow-auto">
             {filteredRiders.map((r) => (
-              <Card
-                key={r.Renner}
-                className="p-2 flex justify-between items-center"
-              >
+              <Card key={r.Renner} className="p-2 flex justify-between items-center">
                 <CardContent className="p-0">
                   <p className="font-semibold">{r.Renner}</p>
                   <p className="text-sm">{r.Team}</p>
@@ -242,9 +247,7 @@ export default function PronostiekApp() {
                 <Button
                   disabled={!canAdd(r)}
                   onClick={() => setCurrentTeam([...currentTeam, r])}
-                  className={
-                    !canAdd(r) ? "bg-gray-300 text-gray-600" : undefined
-                  }
+                  className={!canAdd(r) ? "bg-gray-300 text-gray-600" : ""}
                 >
                   Voeg toe
                 </Button>
