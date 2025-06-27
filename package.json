@@ -4,6 +4,7 @@
   "version": "1.0.0",
 "scripts": {
   "vercel-build": "npm install && vite build",
+  "postinstall": "npm install @vitejs/plugin-react",
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview"
