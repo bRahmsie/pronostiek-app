@@ -24,7 +24,7 @@ export default function PronostiekApp() {
 
   const currentTeam = competition === "NORMAAL" ? teamNormaal : teamPro;
   const setCurrentTeam = competition === "NORMAAL" ? setTeamNormaal : setTeamPro;
-  const budgetLimit = competition === "NORMAAL" ? 12000 : 6000;
+  const budgetLimit = competition === "NORMAAL" ? 15000 : 7500;
   const maxRiders = 15;
   const maxPerTeam = 4;
 
