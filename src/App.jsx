@@ -43,26 +43,32 @@ export default function PronostiekApp() {
         setMinPoints(Math.min(...points));
         setMaxPoints(Math.max(...points));
         setMaxPointsFilter(Math.max(...points));
-      });
+      })
+      .catch((err) => console.error("Fout bij laden renners:", err));
   }, []);
 
   useEffect(() => {
-    supabase.auth.getSession().then(({ data }) => {
+    supabase.auth.getSession().then(({ data, error }) => {
       const email = data?.session?.user?.email;
-      if (email) {
+      if (!email || error) {
+        navigate("/login");
+      } else {
         setUserEmail(email);
         loadTeams(email);
-      } else {
-        navigate("/login");
       }
     });
-  }, []);
+  }, [navigate]);
 
   const loadTeams = async (email) => {
-    const { data } = await supabase
-      .from("teams")
-      .select("*")
-      .eq("user_email", email);
+    const {
+      data,
+      error,
+    } = await supabase.from("teams").select("*").eq("user_email", email);
+
+    if (error && error.code === "401") {
+      navigate("/login");
+      return;
+    }
 
     data?.forEach((team) => {
       if (team.competition === "NORMAAL") setTeamNormaal(team.team_data);
@@ -71,14 +77,6 @@ export default function PronostiekApp() {
   };
 
   const saveTeamToSupabase = async () => {
-    const { data: sessionData } = await supabase.auth.getSession();
-    const email = sessionData?.session?.user?.email;
-
-    if (!email) {
-      navigate("/login");
-      return;
-    }
-
     const cleanedName = teamName.toLowerCase().replace(/[^a-z0-9]/gi, "");
     const now = new Date();
     const fileSuffix = `${String(now.getDate()).padStart(2, "0")}${String(
@@ -88,18 +86,21 @@ export default function PronostiekApp() {
     ).padStart(2, "0")}${String(now.getMinutes()).padStart(2, "0")}`;
 
     const { error } = await supabase.from("teams").upsert({
-      user_email: email,
+      user_email: userEmail,
       team_name: `${cleanedName}-${competition.toLowerCase()}-${fileSuffix}`,
       competition,
       team_data: currentTeam,
     });
 
-    if (!error) {
+    if (error) {
+      if (error.code === "401") {
+        navigate("/login");
+      } else {
+        setSaveMessage("❌ Fout bij opslaan");
+      }
+    } else {
       setSaveMessage("✅ Je ploeg is opgeslagen!");
       setTimeout(() => setSaveMessage(""), 3000);
-    } else {
-      console.error("Fout bij opslaan:", error);
-      setSaveMessage("❌ Fout bij opslaan");
     }
   };
 
@@ -198,7 +199,9 @@ export default function PronostiekApp() {
                   </li>
                 )}
                 {Object.values(teamCounts).some((c) => c > maxPerTeam) && (
-                  <li>Maximaal {maxPerTeam} renners per ploeg toegelaten.</li>
+                  <li>
+                    Maximaal {maxPerTeam} renners per ploeg toegelaten.
+                  </li>
                 )}
                 {teamName.trim().length === 0 && <li>Teamnaam is verplicht.</li>}
               </ul>
