@@ -76,6 +76,12 @@ export default function PronostiekApp() {
     });
   };
 
+  const handleLogout = async () => {
+    await supabase.auth.signOut();
+    setUserEmail("");
+    navigate("/login");
+  };
+
   const saveTeamToSupabase = async () => {
     const cleanedName = teamName.toLowerCase().replace(/[^a-z0-9]/gi, "");
     const now = new Date();
@@ -147,6 +153,9 @@ export default function PronostiekApp() {
             variant={competition === "PRO" ? "default" : "outline"}
           >
             PRO
+          </Button>
+          <Button variant="outline" onClick={handleLogout}>
+            Logout
           </Button>
         </div>
       </div>
