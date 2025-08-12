@@ -975,11 +975,6 @@
     "Points": 340
   },
   {
-    "Renner": "BARDET Romain",
-    "Team": NaN,
-    "Points": 337
-  },
-  {
     "Renner": "LECERF Junior",
     "Team": "Soudal Quick-Step",
     "Points": 337
@@ -2720,11 +2715,6 @@
     "Points": 96
   },
   {
-    "Renner": "JANSE VAN RENSBURG Reinardt",
-    "Team": NaN,
-    "Points": 95
-  },
-  {
     "Renner": "CONTRERAS Rodrigo",
     "Team": "Nu Colombia",
     "Points": 95
@@ -2798,11 +2788,6 @@
     "Renner": "VERSTRYNGE Emiel",
     "Team": "Alpecin - Deceuninck",
     "Points": 92
-  },
-  {
-    "Renner": "FUGLSANG Jakob",
-    "Team": NaN,
-    "Points": 91
   },
   {
     "Renner": "MÄRKL Niklas",
@@ -3135,11 +3120,6 @@
     "Points": 76
   },
   {
-    "Renner": "EWAN Caleb",
-    "Team": NaN,
-    "Points": 75
-  },
-  {
     "Renner": "TIVANI German Nicolás",
     "Team": "Aviludo - Louletano - Loulé",
     "Points": 75
@@ -3330,11 +3310,6 @@
     "Points": 66
   },
   {
-    "Renner": "LABIB SHOTORBAN Ali",
-    "Team": NaN,
-    "Points": 66
-  },
-  {
     "Renner": "CAVIA Daniel",
     "Team": "Burgos Burpellet BH",
     "Points": 66
@@ -3347,11 +3322,6 @@
   {
     "Renner": "SCHULTZ Nick",
     "Team": "Israel - Premier Tech",
-    "Points": 65
-  },
-  {
-    "Renner": "GRUZDEV Dmitriy",
-    "Team": NaN,
     "Points": 65
   },
   {
@@ -3425,11 +3395,6 @@
     "Points": 63
   },
   {
-    "Renner": "ARCHIBOLD Franklin",
-    "Team": NaN,
-    "Points": 63
-  },
-  {
     "Renner": "VADER Milan",
     "Team": "Q36.5 Pro Cycling Team",
     "Points": 63
@@ -3447,11 +3412,6 @@
   {
     "Renner": "VAN DER TUUK Axel",
     "Team": "Metec - SOLARWATT p/b Mantel",
-    "Points": 63
-  },
-  {
-    "Renner": "MUGISHA Moise",
-    "Team": NaN,
     "Points": 63
   },
   {
@@ -3660,11 +3620,6 @@
     "Points": 58
   },
   {
-    "Renner": "EL ARBAOUI Adil",
-    "Team": NaN,
-    "Points": 58
-  },
-  {
     "Renner": "HEREMANS Joppe",
     "Team": "VolkerWessels Cycling Team",
     "Points": 58
@@ -3747,11 +3702,6 @@
   {
     "Renner": "BOIVIN Guillaume",
     "Team": "Israel - Premier Tech",
-    "Points": 55
-  },
-  {
-    "Renner": "SIMON Julien",
-    "Team": NaN,
     "Points": 55
   },
   {
@@ -3842,11 +3792,6 @@
   {
     "Renner": "SAVINO Federico",
     "Team": "Soudal Quick-Step Devo Team",
-    "Points": 54
-  },
-  {
-    "Renner": "ALBLOOSHI Rashid",
-    "Team": NaN,
     "Points": 54
   },
   {
@@ -4020,11 +3965,6 @@
     "Points": 49
   },
   {
-    "Renner": "PORTER Rudy",
-    "Team": NaN,
-    "Points": 49
-  },
-  {
     "Renner": "JOALLAND Yaël",
     "Team": "CIC - U - Nantes",
     "Points": 49
@@ -4135,11 +4075,6 @@
     "Points": 47
   },
   {
-    "Renner": "MENDES Diego De Jesus",
-    "Team": NaN,
-    "Points": 47
-  },
-  {
     "Renner": "STOSZ Patryk",
     "Team": "Voster ATS Team",
     "Points": 46
@@ -4235,11 +4170,6 @@
     "Points": 45
   },
   {
-    "Renner": "MASENGESHO Vainqueur",
-    "Team": NaN,
-    "Points": 45
-  },
-  {
     "Renner": "MAROLT Jaka",
     "Team": "Factor Racing",
     "Points": 45
@@ -4252,11 +4182,6 @@
   {
     "Renner": "REIS Rafael",
     "Team": "Anicolor / Tien 21",
-    "Points": 44
-  },
-  {
-    "Renner": "POZZOVIVO Domenico",
-    "Team": NaN,
     "Points": 44
   },
   {
@@ -4405,11 +4330,6 @@
     "Points": 42
   },
   {
-    "Renner": "DELLAI Mohamed Aziz",
-    "Team": NaN,
-    "Points": 42
-  },
-  {
     "Renner": "KAMP Alexander",
     "Team": "Intermarché - Wanty",
     "Points": 41
@@ -4490,11 +4410,6 @@
     "Points": 40
   },
   {
-    "Renner": "EL KOURAJI Mohcine",
-    "Team": NaN,
-    "Points": 40
-  },
-  {
     "Renner": "JUNG Woo-Ho",
     "Team": "Seoul Cycling Team",
     "Points": 40
@@ -4532,11 +4447,6 @@
   {
     "Renner": "HAVERDINGS David",
     "Team": "Baloise Glowi Lions",
-    "Points": 40
-  },
-  {
-    "Renner": "STOYNEV Emil",
-    "Team": NaN,
     "Points": 40
   },
   {
@@ -4582,11 +4492,6 @@
   {
     "Renner": "GRANGER Ben",
     "Team": "Mg.K Vis Costruzioni e Ambiente",
-    "Points": 39
-  },
-  {
-    "Renner": "ROYAN Muhammad Andy",
-    "Team": NaN,
     "Points": 39
   },
   {
@@ -4720,11 +4625,6 @@
     "Points": 36
   },
   {
-    "Renner": "SIRIRONNACHAI Sarawut",
-    "Team": NaN,
-    "Points": 36
-  },
-  {
     "Renner": "DEKKER David",
     "Team": "Euskaltel - Euskadi",
     "Points": 36
@@ -4750,33 +4650,13 @@
     "Points": 36
   },
   {
-    "Renner": "RODRÍGUEZ Brandon Ulises",
-    "Team": NaN,
-    "Points": 36
-  },
-  {
     "Renner": "LOMURIA Paul",
     "Team": "Team Amani",
     "Points": 36
   },
   {
-    "Renner": "RAMÍREZ Donovan",
-    "Team": NaN,
-    "Points": 36
-  },
-  {
     "Renner": "PÉREZ Ciro",
     "Team": "Mg.K Vis Costruzioni e Ambiente",
-    "Points": 36
-  },
-  {
-    "Renner": "MENÉNDEZ Héctor",
-    "Team": NaN,
-    "Points": 36
-  },
-  {
-    "Renner": "KIFLOM Pawlos Gebremichael",
-    "Team": NaN,
     "Points": 36
   },
   {
@@ -4855,11 +4735,6 @@
     "Points": 34
   },
   {
-    "Renner": "DÁRIO António",
-    "Team": NaN,
-    "Points": 34
-  },
-  {
     "Renner": "REYNDERS Jens",
     "Team": "Wagner Bazin WB",
     "Points": 34
@@ -4882,11 +4757,6 @@
   {
     "Renner": "POMORSKI Michał",
     "Team": "Mazowsze Serce Polski",
-    "Points": 34
-  },
-  {
-    "Renner": "DOMINGUEZ Carlos",
-    "Team": NaN,
     "Points": 34
   },
   {
@@ -4985,29 +4855,9 @@
     "Points": 32
   },
   {
-    "Renner": "BERHANE Hebron",
-    "Team": NaN,
-    "Points": 32
-  },
-  {
     "Renner": "MEEHAN Jamie",
     "Team": "AVC Aix Provence Dole",
     "Points": 32
-  },
-  {
-    "Renner": "GONZALEZ David Alejandro",
-    "Team": NaN,
-    "Points": 32
-  },
-  {
-    "Renner": "FU Enqi",
-    "Team": NaN,
-    "Points": 32
-  },
-  {
-    "Renner": "VAN DYCK Wesley",
-    "Team": NaN,
-    "Points": 31
   },
   {
     "Renner": "ABDURRAHMAN Muhammad",
@@ -5070,11 +4920,6 @@
     "Points": 31
   },
   {
-    "Renner": "KARIĆ Vedad",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "BERHANE Natnael",
     "Team": "Istanbul Büyükșehir Belediye Spor Türkiye",
     "Points": 30
@@ -5105,18 +4950,8 @@
     "Points": 30
   },
   {
-    "Renner": "NUHA Blerton",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "MILLER Alex",
     "Team": "Swatt Club",
-    "Points": 30
-  },
-  {
-    "Renner": "ALIYARI Aidin",
-    "Team": NaN,
     "Points": 30
   },
   {
@@ -5135,11 +4970,6 @@
     "Points": 30
   },
   {
-    "Renner": "MEDHANIE Natan",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "ROJAS Gabriel Francisco",
     "Team": "Manzaté La Selva Scott",
     "Points": 30
@@ -5150,18 +4980,8 @@
     "Points": 30
   },
   {
-    "Renner": "DRAGE Jack",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "KEE Zhe Yie",
     "Team": "Terengganu Cycling Team",
-    "Points": 30
-  },
-  {
-    "Renner": "SODJEDE Ricardo",
-    "Team": NaN,
     "Points": 30
   },
   {
@@ -5170,33 +4990,13 @@
     "Points": 30
   },
   {
-    "Renner": "MAKATILE Kabelo",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
-    "Renner": "RADUNOVIĆ Aleksandar",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "TOADER Alin",
     "Team": "Beltrami TSA Tre Colli",
     "Points": 30
   },
   {
-    "Renner": "JAWAID Ali",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "VANEECKHOUTTE Victor",
     "Team": "Lotto Development Team",
-    "Points": 30
-  },
-  {
-    "Renner": "TONG Khoon Fung Thomas",
-    "Team": NaN,
     "Points": 30
   },
   {
@@ -5215,18 +5015,8 @@
     "Points": 30
   },
   {
-    "Renner": "DA CRUZ Nelio",
-    "Team": NaN,
-    "Points": 30
-  },
-  {
     "Renner": "RAMÍREZ Mateo Pablo",
     "Team": "UAE Team Emirates Gen Z",
-    "Points": 30
-  },
-  {
-    "Renner": "ABU HARRAH Majid",
-    "Team": NaN,
     "Points": 30
   },
   {
@@ -5325,11 +5115,6 @@
     "Points": 28
   },
   {
-    "Renner": "BORSTELMANN John",
-    "Team": NaN,
-    "Points": 28
-  },
-  {
     "Renner": "AGNOLETTO Blake",
     "Team": "Equipe continentale Groupama-FDJ",
     "Points": 28
@@ -5367,11 +5152,6 @@
   {
     "Renner": "CAMPOS Roniel",
     "Team": "Chengdu DYC Cycling Team",
-    "Points": 27
-  },
-  {
-    "Renner": "BONILLA Daniel Andres",
-    "Team": NaN,
     "Points": 27
   },
   {
@@ -5420,28 +5200,13 @@
     "Points": 27
   },
   {
-    "Renner": "DOMÍNGUEZ José Alberto",
-    "Team": NaN,
-    "Points": 27
-  },
-  {
     "Renner": "WÜRTZ SCHMIDT Mads",
     "Team": "PAS Racing",
     "Points": 26
   },
   {
-    "Renner": "HERMANS Ben",
-    "Team": NaN,
-    "Points": 26
-  },
-  {
     "Renner": "GUAMÁ Byron",
     "Team": "Movistar Best PC",
-    "Points": 26
-  },
-  {
-    "Renner": "GABBURO Davide",
-    "Team": NaN,
     "Points": 26
   },
   {
@@ -5505,18 +5270,8 @@
     "Points": 25
   },
   {
-    "Renner": "MØRKØV Michael",
-    "Team": NaN,
-    "Points": 25
-  },
-  {
     "Renner": "LAENGEN Vegard Stake",
     "Team": "UAE Team Emirates - XRG",
-    "Points": 25
-  },
-  {
-    "Renner": "RIVEROS Francisco Daniel",
-    "Team": NaN,
     "Points": 25
   },
   {
@@ -5590,11 +5345,6 @@
     "Points": 25
   },
   {
-    "Renner": "MANDIN MEDINA Yunior Brayan",
-    "Team": NaN,
-    "Points": 25
-  },
-  {
     "Renner": "KAMZONG Clovis",
     "Team": "SNH Vélo Club",
     "Points": 24
@@ -5645,11 +5395,6 @@
     "Points": 24
   },
   {
-    "Renner": "TUYIZERE Etienne",
-    "Team": NaN,
-    "Points": 24
-  },
-  {
     "Renner": "MILAN Matteo",
     "Team": "Lidl - Trek Future Racing",
     "Points": 24
@@ -5667,11 +5412,6 @@
   {
     "Renner": "RODRIGUEZ Juan Felipe",
     "Team": "Team Sistecredito",
-    "Points": 24
-  },
-  {
-    "Renner": "BOMFIM DE ALMEIDA Luiz Fernando",
-    "Team": NaN,
     "Points": 24
   },
   {
@@ -5717,11 +5457,6 @@
   {
     "Renner": "BONIFACE Lucas",
     "Team": "Team TotalEnergies",
-    "Points": 23
-  },
-  {
-    "Renner": "BALLERSTEDT Maurice",
-    "Team": NaN,
     "Points": 23
   },
   {
@@ -5785,33 +5520,13 @@
     "Points": 23
   },
   {
-    "Renner": "MATUTE Fredd",
-    "Team": NaN,
-    "Points": 22
-  },
-  {
     "Renner": "DEL PINO Jesus",
     "Team": "Aviludo - Louletano - Loulé",
     "Points": 22
   },
   {
-    "Renner": "MATÉ Luis Ángel",
-    "Team": NaN,
-    "Points": 22
-  },
-  {
-    "Renner": "TESHOME HAGOS Meron",
-    "Team": NaN,
-    "Points": 22
-  },
-  {
     "Renner": "TEUGELS Lennert",
     "Team": "Tarteletto - Isorex",
-    "Points": 22
-  },
-  {
-    "Renner": "YEO Boon Kiak",
-    "Team": NaN,
     "Points": 22
   },
   {
@@ -5827,16 +5542,6 @@
   {
     "Renner": "NUNES Hugo",
     "Team": "Credibom / LA Alumínios / Marcos Car",
-    "Points": 22
-  },
-  {
-    "Renner": "CAMPBELL Akill",
-    "Team": NaN,
-    "Points": 22
-  },
-  {
-    "Renner": "MANIZABAYO Eric",
-    "Team": NaN,
     "Points": 22
   },
   {
@@ -5885,11 +5590,6 @@
     "Points": 22
   },
   {
-    "Renner": "TREPTE Liam",
-    "Team": NaN,
-    "Points": 22
-  },
-  {
     "Renner": "RÄIM Mihkel",
     "Team": "Quick Pro Team",
     "Points": 21
@@ -5927,11 +5627,6 @@
   {
     "Renner": "CLASSEN Caleb",
     "Team": "Project Echelon Racing",
-    "Points": 21
-  },
-  {
-    "Renner": "RAWENDE Moucaila",
-    "Team": NaN,
     "Points": 21
   },
   {
@@ -5995,21 +5690,6 @@
     "Points": 20
   },
   {
-    "Renner": "GESCHKE Simon",
-    "Team": NaN,
-    "Points": 20
-  },
-  {
-    "Renner": "GESINK Robert",
-    "Team": NaN,
-    "Points": 20
-  },
-  {
-    "Renner": "MORA Luis Guillermo",
-    "Team": NaN,
-    "Points": 20
-  },
-  {
     "Renner": "GARCÍA PIERNA Carlos",
     "Team": "Burgos Burpellet BH",
     "Points": 20
@@ -6052,11 +5732,6 @@
   {
     "Renner": "BENNETT Stéfan",
     "Team": "Jeunesse Cycliste 231",
-    "Points": 20
-  },
-  {
-    "Renner": "BRUSSENSKIY Gleb",
-    "Team": NaN,
     "Points": 20
   },
   {
@@ -6145,11 +5820,6 @@
     "Points": 20
   },
   {
-    "Renner": "WATANABE Ikki",
-    "Team": NaN,
-    "Points": 20
-  },
-  {
     "Renner": "JASIM AL-ALI Abdulla",
     "Team": "UAE Team Emirates Gen Z",
     "Points": 20
@@ -6160,19 +5830,9 @@
     "Points": 20
   },
   {
-    "Renner": "TRILLAT Jose",
-    "Team": NaN,
-    "Points": 20
-  },
-  {
     "Renner": "QUINTERO Juan Diego",
     "Team": "GW Erco Shimano",
     "Points": 20
-  },
-  {
-    "Renner": "KOBAYASHI Marino",
-    "Team": NaN,
-    "Points": 19
   },
   {
     "Renner": "HARO Wilson Steven",
@@ -6250,11 +5910,6 @@
     "Points": 19
   },
   {
-    "Renner": "DELGADO Ricardo",
-    "Team": NaN,
-    "Points": 19
-  },
-  {
     "Renner": "SOLEN Keije",
     "Team": "Wanty - Nippo - ReUz",
     "Points": 19
@@ -6295,11 +5950,6 @@
     "Points": 18
   },
   {
-    "Renner": "PINTO Luis",
-    "Team": NaN,
-    "Points": 18
-  },
-  {
     "Renner": "MUDGWAY Luke",
     "Team": "Li Ning Star",
     "Points": 18
@@ -6320,11 +5970,6 @@
     "Points": 18
   },
   {
-    "Renner": "ZACHAR Sebastian Bruno",
-    "Team": NaN,
-    "Points": 18
-  },
-  {
     "Renner": "PRIETO José Juan",
     "Team": "Petrolike",
     "Points": 18
@@ -6340,18 +5985,8 @@
     "Points": 17
   },
   {
-    "Renner": "VUILLERMOZ Alexis",
-    "Team": NaN,
-    "Points": 17
-  },
-  {
     "Renner": "RODAS Manuel",
     "Team": "Decorabaños",
-    "Points": 17
-  },
-  {
-    "Renner": "FREYER Martin",
-    "Team": NaN,
     "Points": 17
   },
   {
@@ -6367,11 +6002,6 @@
   {
     "Renner": "PRONSKIY Vadim",
     "Team": "Terengganu Cycling Team",
-    "Points": 17
-  },
-  {
-    "Renner": "PHONASA Thavone",
-    "Team": NaN,
     "Points": 17
   },
   {
@@ -6400,11 +6030,6 @@
     "Points": 17
   },
   {
-    "Renner": "MAHLANGU Thokozani",
-    "Team": NaN,
-    "Points": 17
-  },
-  {
     "Renner": "KUERE NOUNAWE Rodrigue Eric",
     "Team": "SNH Vélo Club",
     "Points": 17
@@ -6412,11 +6037,6 @@
   {
     "Renner": "MOYATA Eduardo",
     "Team": "Pío Rico Cycling Team",
-    "Points": 17
-  },
-  {
-    "Renner": "TOSCANO Bill Janz",
-    "Team": NaN,
     "Points": 17
   },
   {
@@ -6450,18 +6070,8 @@
     "Points": 17
   },
   {
-    "Renner": "MEMEDI Memet",
-    "Team": NaN,
-    "Points": 17
-  },
-  {
     "Renner": "RAFFERTY Adam",
     "Team": "Hagens Berman Jayco",
-    "Points": 17
-  },
-  {
-    "Renner": "RAKAOTA Khotsofalang",
-    "Team": NaN,
     "Points": 17
   },
   {
@@ -6485,23 +6095,8 @@
     "Points": 17
   },
   {
-    "Renner": "SMITH Calvin",
-    "Team": NaN,
-    "Points": 17
-  },
-  {
-    "Renner": "JONES Barry",
-    "Team": NaN,
-    "Points": 17
-  },
-  {
     "Renner": "CARDIS Romain",
     "Team": "St Michel - Preference Home - Auber93",
-    "Points": 16
-  },
-  {
-    "Renner": "FERNÁNDEZ Delio",
-    "Team": NaN,
     "Points": 16
   },
   {
@@ -6530,18 +6125,8 @@
     "Points": 16
   },
   {
-    "Renner": "ANDERSEN Idar",
-    "Team": NaN,
-    "Points": 16
-  },
-  {
     "Renner": "STEWART Campbell",
     "Team": "Team Jayco AlUla",
-    "Points": 16
-  },
-  {
-    "Renner": "LÓPEZ Luis Fernando Enrique",
-    "Team": NaN,
     "Points": 16
   },
   {
@@ -6640,21 +6225,6 @@
     "Points": 16
   },
   {
-    "Renner": "SHUMBA Rodrick",
-    "Team": NaN,
-    "Points": 16
-  },
-  {
-    "Renner": "CHRISTOPHER Darel",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "PETROVSKI Stefan",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "CHOE Hyeong Min",
     "Team": "Geumsan Insam Cello",
     "Points": 15
@@ -6662,16 +6232,6 @@
   {
     "Renner": "BERNAS Paweł",
     "Team": "Mazowsze Serce Polski",
-    "Points": 15
-  },
-  {
-    "Renner": "BRIDGES Jyme",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "MARSH Robert",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -6700,11 +6260,6 @@
     "Points": 15
   },
   {
-    "Renner": "BOHLI Tom",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "GRELLIER Fabien",
     "Team": "Team TotalEnergies",
     "Points": 15
@@ -6725,21 +6280,6 @@
     "Points": 15
   },
   {
-    "Renner": "DIMA Emil",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "HORVAT Robert",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "GONZALES Freddy",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "RUDYK Bartosz",
     "Team": "Monogo Lubelskie Perła Polski",
     "Points": 15
@@ -6747,11 +6287,6 @@
   {
     "Renner": "OKAMOTO Hayato",
     "Team": "Aisan Racing Team",
-    "Points": 15
-  },
-  {
-    "Renner": "KANEKO Sohei",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -6785,11 +6320,6 @@
     "Points": 15
   },
   {
-    "Renner": "MACLEOD Callum",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "VANDEPUTTE Niels",
     "Team": "Alpecin-Deceuninck Development Team",
     "Points": 15
@@ -6805,38 +6335,13 @@
     "Points": 15
   },
   {
-    "Renner": "LARSEN Trond",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "TORRES Edgar Geovanny",
     "Team": "Hino-One-La red-Suzuki",
     "Points": 15
   },
   {
-    "Renner": "ÓMARSSON Ingvar",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "SOULAMA Daouda",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "TESTORI Michael",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "RUIZ Robinson Steven",
     "Team": "Sindicato de Empleados Públicos of San Juan",
-    "Points": 15
-  },
-  {
-    "Renner": "NKUNDABERA Eric",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -6847,11 +6352,6 @@
   {
     "Renner": "ROSSI João Pedro",
     "Team": "Swift Pro Cycling",
-    "Points": 15
-  },
-  {
-    "Renner": "BOTLHOLE Matlhogonolo",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -6895,11 +6395,6 @@
     "Points": 15
   },
   {
-    "Renner": "LIM Zhen Yu Darren",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "MARTE Jesus Roniel",
     "Team": "Doglocy - Imca",
     "Points": 15
@@ -6922,16 +6417,6 @@
   {
     "Renner": "SUTTON Louis",
     "Team": "Euskaltel - Euskadi",
-    "Points": 15
-  },
-  {
-    "Renner": "XUE Ming",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "VILORIA Enmanuel David",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -6970,16 +6455,6 @@
     "Points": 15
   },
   {
-    "Renner": "JELE Kwanele",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "BARON Kohath",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "TAKHIROV Diyor",
     "Team": "OU7 Cycling Team",
     "Points": 15
@@ -7015,23 +6490,8 @@
     "Points": 15
   },
   {
-    "Renner": "CELESTIN Torea",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "NASTEVSKI Slobodan",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "RAMSAY Andrew",
     "Team": "AVR Racing",
-    "Points": 15
-  },
-  {
-    "Renner": "SEKHON Harshveer",
-    "Team": NaN,
     "Points": 15
   },
   {
@@ -7045,21 +6505,6 @@
     "Points": 15
   },
   {
-    "Renner": "BODDEN Christopher",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "RAUF Abdul Rauf Ahmed Abdul",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "BHAGIRATH Bhagirath",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
     "Renner": "SHAPILOV Artem",
     "Team": "Art Cycling Team",
     "Points": 15
@@ -7070,38 +6515,8 @@
     "Points": 15
   },
   {
-    "Renner": "DENSLOW Matthew",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "ALEMAYO Tekle",
-    "Team": NaN,
-    "Points": 15
-  },
-  {
-    "Renner": "SEQUERA Pedro",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "ALARCON José",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "GASPAR João Marcelo Pereira",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
     "Renner": "CAHYADI Aiman",
     "Team": "Terengganu Cycling Team",
-    "Points": 14
-  },
-  {
-    "Renner": "GRYNIV Vitaliy",
-    "Team": NaN,
     "Points": 14
   },
   {
@@ -7112,11 +6527,6 @@
   {
     "Renner": "RAUGEL Antoine",
     "Team": "Vélo Club Villefranche Beaujolais",
-    "Points": 14
-  },
-  {
-    "Renner": "GIANNOUTSOS Miltiadis",
-    "Team": NaN,
     "Points": 14
   },
   {
@@ -7135,11 +6545,6 @@
     "Points": 14
   },
   {
-    "Renner": "RODRÍGUEZ Diego Leonel",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
     "Renner": "CHAVARRIA Derrick",
     "Team": "G-Flow Cycling Team",
     "Points": 14
@@ -7152,21 +6557,6 @@
   {
     "Renner": "BORRESCH Julian",
     "Team": "REMBE | rad-net",
-    "Points": 14
-  },
-  {
-    "Renner": "YMERI Albion",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "ROMERO Jorge",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "ACUÑA Carlos Sebastian",
-    "Team": NaN,
     "Points": 14
   },
   {
@@ -7192,26 +6582,6 @@
   {
     "Renner": "AMBROSINI Matteo",
     "Team": "MBH Bank Ballan CSB",
-    "Points": 14
-  },
-  {
-    "Renner": "DOLJANIN Roko",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "HAILEMARYAM Gereziher Geremedhin",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "TALIĆ Kadija",
-    "Team": NaN,
-    "Points": 14
-  },
-  {
-    "Renner": "AL MAYYAS Mohammad",
-    "Team": NaN,
     "Points": 14
   },
   {
@@ -7270,16 +6640,6 @@
     "Points": 13
   },
   {
-    "Renner": "JU Jinyang",
-    "Team": NaN,
-    "Points": 13
-  },
-  {
-    "Renner": "REDAE Bizay Tesfu",
-    "Team": NaN,
-    "Points": 13
-  },
-  {
     "Renner": "WRIGHT Owen",
     "Team": "Canel's - Java",
     "Points": 13
@@ -7290,28 +6650,8 @@
     "Points": 13
   },
   {
-    "Renner": "CEROVIĆ Goran",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
     "Renner": "MARCHAND Gianni",
     "Team": "Tarteletto - Isorex",
-    "Points": 12
-  },
-  {
-    "Renner": "IZAGIRRE Gorka",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
-    "Renner": "VAN EMPEL Etienne",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
-    "Renner": "NOVOA Leonidas Sebastián",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7327,11 +6667,6 @@
   {
     "Renner": "PEÁK Barnabás",
     "Team": "ATT Investments",
-    "Points": 12
-  },
-  {
-    "Renner": "DE WILDE Gilles",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7360,11 +6695,6 @@
     "Points": 12
   },
   {
-    "Renner": "DIVNIĆ Jovan",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
     "Renner": "PLAMONDON Joel",
     "Team": "Team Marni-N'side",
     "Points": 12
@@ -7382,11 +6712,6 @@
   {
     "Renner": "WATTELLE Célestin",
     "Team": "Team Novo Nordisk",
-    "Points": 12
-  },
-  {
-    "Renner": "MONGES Jonathan Daniel",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7410,11 +6735,6 @@
     "Points": 12
   },
   {
-    "Renner": "METZGER Gabriel",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
     "Renner": "SMITHSON Jed",
     "Team": "Team Visma | Lease a Bike Development",
     "Points": 12
@@ -7427,21 +6747,6 @@
   {
     "Renner": "DONAIRE Alexander Jhunior",
     "Team": "Pío Rico Cycling Team",
-    "Points": 12
-  },
-  {
-    "Renner": "YAMEOGO Saturnin",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
-    "Renner": "BEULKER Justus",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
-    "Renner": "LOPES Rúben",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7465,18 +6770,8 @@
     "Points": 12
   },
   {
-    "Renner": "KASTRATI Albion",
-    "Team": NaN,
-    "Points": 12
-  },
-  {
     "Renner": "FANTINI Christian",
     "Team": "Solme - Olmo",
-    "Points": 12
-  },
-  {
-    "Renner": "FAROOQ Umar",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7487,11 +6782,6 @@
   {
     "Renner": "DÍAZ Miguel",
     "Team": "Olinka Specialized",
-    "Points": 12
-  },
-  {
-    "Renner": "ALREJJAL Mo'men",
-    "Team": NaN,
     "Points": 12
   },
   {
@@ -7620,11 +6910,6 @@
     "Points": 11
   },
   {
-    "Renner": "RABOUDE Jeremy",
-    "Team": NaN,
-    "Points": 11
-  },
-  {
     "Renner": "MAKOHON Jack",
     "Team": "Team Skyline",
     "Points": 11
@@ -7640,11 +6925,6 @@
     "Points": 11
   },
   {
-    "Renner": "NEAVES Jadian",
-    "Team": NaN,
-    "Points": 11
-  },
-  {
     "Renner": "PERON Andrea",
     "Team": "Team Novo Nordisk",
     "Points": 10
@@ -7655,28 +6935,13 @@
     "Points": 10
   },
   {
-    "Renner": "GUDIŠKIS Eimantas",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "HIRT Jan",
     "Team": "Israel - Premier Tech",
     "Points": 10
   },
   {
-    "Renner": "WIŚNIOWSKI Łukasz",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "OYARZÚN Carlos Iván",
     "Team": "Aviludo - Louletano - Loulé",
-    "Points": 10
-  },
-  {
-    "Renner": "CISSÉ Isiaka",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7690,23 +6955,8 @@
     "Points": 10
   },
   {
-    "Renner": "GOUGEARD Alexis",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "JANSEN Amund Grøndahl",
     "Team": "Uno-X Mobility",
-    "Points": 10
-  },
-  {
-    "Renner": "LAIZER Richard",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "VILLALOBOS Rodolfo",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7717,11 +6967,6 @@
   {
     "Renner": "KRUGER Casper",
     "Team": "Team Honeycomb 226ers",
-    "Points": 10
-  },
-  {
-    "Renner": "LEYSEN Senne",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7740,23 +6985,8 @@
     "Points": 10
   },
   {
-    "Renner": "WAIS Ahmad Badreddin",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "SYMONDS Christopher",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "BOLOR-ERDENE Enkhtaivan",
     "Team": "Huansheng - Vonoa - Taishan Sport Team",
-    "Points": 10
-  },
-  {
-    "Renner": "CASTRILLO Jaime",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7772,11 +7002,6 @@
   {
     "Renner": "CATALDO Lorenzo",
     "Team": "Gragnano Sporting Club",
-    "Points": 10
-  },
-  {
-    "Renner": "MUZI Shabangu",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7810,18 +7035,8 @@
     "Points": 10
   },
   {
-    "Renner": "MAHER Habouriya",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "GERITS Vince",
     "Team": "Team Flanders - Baloise",
-    "Points": 10
-  },
-  {
-    "Renner": "YATSENKO Ivan",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7830,18 +7045,8 @@
     "Points": 10
   },
   {
-    "Renner": "KANNIMÄE Taavi",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "POLANCO Steven",
     "Team": "Foundation Cycling New York",
-    "Points": 10
-  },
-  {
-    "Renner": "SOWOU Rémi",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7860,11 +7065,6 @@
     "Points": 10
   },
   {
-    "Renner": "STEDMAN Travis",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "WYSEURE Joran",
     "Team": "Alpecin-Deceuninck Development Team",
     "Points": 10
@@ -7872,11 +7072,6 @@
   {
     "Renner": "REMKHE Andrey",
     "Team": "Tianyoude Hotel Cycling Team",
-    "Points": 10
-  },
-  {
-    "Renner": "LITLERE Sverre",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -7950,11 +7145,6 @@
     "Points": 10
   },
   {
-    "Renner": "AL KHATER Fadhel",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "MÜNZER Jan",
     "Team": "Team Storck - Metropol Cycling",
     "Points": 10
@@ -7962,11 +7152,6 @@
   {
     "Renner": "BLEDDYN Oliver",
     "Team": "Atom 6 Bikes - Decca Continental Team",
-    "Points": 10
-  },
-  {
-    "Renner": "ALSABBAGH Ali",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -8005,16 +7190,6 @@
     "Points": 10
   },
   {
-    "Renner": "SCHEMBRI Jacob",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "HAIDARI Qais",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "HYSA Henri",
     "Team": "Cyklotym Havířov - Tirana",
     "Points": 10
@@ -8027,16 +7202,6 @@
   {
     "Renner": "FRANCISCO Jude Gabriel",
     "Team": "Victoria Sports Pro Cycling",
-    "Points": 10
-  },
-  {
-    "Renner": "ASCOTT George",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "DEVARDEKAR Sudarshan",
-    "Team": NaN,
     "Points": 10
   },
   {
@@ -8055,11 +7220,6 @@
     "Points": 10
   },
   {
-    "Renner": "CARCAMO Diego",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "VATAN Amir Hossein",
     "Team": "Vride",
     "Points": 10
@@ -8070,79 +7230,14 @@
     "Points": 10
   },
   {
-    "Renner": "CHEANG Shing Hei",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "MIRZAYE Ahmad",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
     "Renner": "LIM Jongwon",
     "Team": "LX Cycling Team",
-    "Points": 10
-  },
-  {
-    "Renner": "IZQUIERDO RODRIGUEZ Randol",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "MAHMUTOVIĆ Amir",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "AL-KUWARI Tamim Jamal",
-    "Team": NaN,
     "Points": 10
   },
   {
     "Renner": "TESFAY Amanuel",
     "Team": "UCI WCC Men's Team",
     "Points": 10
-  },
-  {
-    "Renner": "KAMOLOV Avazbek",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "FARFAN Sergio",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "WHITTAKER Alexander",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "GREEN Essiel",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "DE OLIVEIRA Cainã Guimarães",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "GOFF Sharney",
-    "Team": NaN,
-    "Points": 10
-  },
-  {
-    "Renner": "WALTERS Sydney",
-    "Team": NaN,
-    "Points": 9
-  },
-  {
-    "Renner": "PALUTA Michał",
-    "Team": NaN,
-    "Points": 9
   },
   {
     "Renner": "VIVIANI Attilio",
@@ -8187,11 +7282,6 @@
   {
     "Renner": "NENCINI Tommaso",
     "Team": "Team Solution Tech - Vini Fantini",
-    "Points": 9
-  },
-  {
-    "Renner": "ESPINOZA Bolivar",
-    "Team": NaN,
     "Points": 9
   },
   {
@@ -8270,23 +7360,8 @@
     "Points": 9
   },
   {
-    "Renner": "MADSEN Erik",
-    "Team": NaN,
-    "Points": 9
-  },
-  {
-    "Renner": "CHINGUI Euclides",
-    "Team": NaN,
-    "Points": 9
-  },
-  {
     "Renner": "FLOREZ Samuel",
     "Team": "Club Ciclista Padronés - Cortizo",
-    "Points": 9
-  },
-  {
-    "Renner": "LEMPE Motlatsi",
-    "Team": NaN,
     "Points": 9
   },
   {
@@ -8295,23 +7370,8 @@
     "Points": 9
   },
   {
-    "Renner": "ATTAI Corneil Kokou",
-    "Team": NaN,
-    "Points": 9
-  },
-  {
-    "Renner": "CAMILLERI John",
-    "Team": NaN,
-    "Points": 9
-  },
-  {
     "Renner": "CÓRDOVA Juan",
     "Team": "Espectro Cycling Team",
-    "Points": 9
-  },
-  {
-    "Renner": "JERVIS Amory",
-    "Team": NaN,
     "Points": 9
   },
   {
@@ -8365,11 +7425,6 @@
     "Points": 8
   },
   {
-    "Renner": "TIENTCHEU Michel Boris",
-    "Team": NaN,
-    "Points": 8
-  },
-  {
     "Renner": "LAGNET Gari",
     "Team": "AC Bisontine",
     "Points": 8
@@ -8382,11 +7437,6 @@
   {
     "Renner": "KOSTAŃSKI Mateusz",
     "Team": "Voster ATS Team",
-    "Points": 8
-  },
-  {
-    "Renner": "POPOV Anton",
-    "Team": NaN,
     "Points": 8
   },
   {
@@ -8427,11 +7477,6 @@
   {
     "Renner": "BERLIN Antoine",
     "Team": "BIKE AID",
-    "Points": 8
-  },
-  {
-    "Renner": "KOVÁČ Samuel",
-    "Team": NaN,
     "Points": 8
   },
   {
@@ -8525,38 +7570,13 @@
     "Points": 8
   },
   {
-    "Renner": "NYAGA Joseph",
-    "Team": NaN,
-    "Points": 8
-  },
-  {
-    "Renner": "CABRAL Helker",
-    "Team": NaN,
-    "Points": 8
-  },
-  {
-    "Renner": "CHOI Heng Wa",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "CASTILLO Ulises Alfredo",
     "Team": "Olinka Specialized",
     "Points": 7
   },
   {
-    "Renner": "ASCONEGUY Roderyck",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "MILÁN Diego",
     "Team": "Inteja Imca",
-    "Points": 7
-  },
-  {
-    "Renner": "THIRÉ Jonathan",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8575,38 +7595,8 @@
     "Points": 7
   },
   {
-    "Renner": "PETROVSKI Andrej",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "REYES Elvys Noel",
     "Team": "Prestige Cycling - Puerto Rico",
-    "Points": 7
-  },
-  {
-    "Renner": "QUISPE Alaín Rossbel",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "JURADO Christofer Robín",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "AZZEM Omar",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "ALHAMMADI Sultan Hassan",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "BÄCKMAN Anders",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8617,16 +7607,6 @@
   {
     "Renner": "SMALL Russell",
     "Team": "Cornwall Cycling Club",
-    "Points": 7
-  },
-  {
-    "Renner": "GOHR Andre Eduardo",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "AHMAD Muhammad Ameer",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8645,18 +7625,8 @@
     "Points": 7
   },
   {
-    "Renner": "BEN AMOR Nadhem",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "ISHIHARA Yuki",
     "Team": "Shimano Racing",
-    "Points": 7
-  },
-  {
-    "Renner": "QUINTEROS Alexis Benjamin",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8680,16 +7650,6 @@
     "Points": 7
   },
   {
-    "Renner": "CHIKWAKA Andrew",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "KONE Souleymane",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "RONHAAR Pim",
     "Team": "Baloise Glowi Lions",
     "Points": 7
@@ -8705,11 +7665,6 @@
     "Points": 7
   },
   {
-    "Renner": "ELSENFAWI Ahmed",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "THEILER Ole",
     "Team": "REMBE | rad-net",
     "Points": 7
@@ -8717,11 +7672,6 @@
   {
     "Renner": "PAREJA Nichol Blanca",
     "Team": "Victoria Sports Pro Cycling",
-    "Points": 7
-  },
-  {
-    "Renner": "CHANG Chih Sheng",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8737,11 +7687,6 @@
   {
     "Renner": "RODRIGUEZ Frankel",
     "Team": "Inteja Imca",
-    "Points": 7
-  },
-  {
-    "Renner": "JÓNSSON Davíð",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8765,16 +7710,6 @@
     "Points": 7
   },
   {
-    "Renner": "BAKR Mahmoud",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "LOUBSER Daniel",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "AUS Aaron",
     "Team": "Quick Pro Team",
     "Points": 7
@@ -8790,28 +7725,8 @@
     "Points": 7
   },
   {
-    "Renner": "ARRIAGADA Cristian",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "BARON Levi",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "MAGALHAES Victor",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "JIMÉNEZ Dylan Roberto",
     "Team": "7C - Economy",
-    "Points": 7
-  },
-  {
-    "Renner": "MATOMBÉ Hanson",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8875,18 +7790,8 @@
     "Points": 7
   },
   {
-    "Renner": "PAVÓN Rubén Sebastián",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "RIBEIRO DA CRUZ Mathias",
     "Team": "Hexagone - Corbas Lyon Métropole",
-    "Points": 7
-  },
-  {
-    "Renner": "BORG Luke",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8895,33 +7800,8 @@
     "Points": 7
   },
   {
-    "Renner": "HONG Youngtaek",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "ANWAR Muhammad Ismail",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "GONZÁLES Charles",
     "Team": "Municipalidad de Pocito",
-    "Points": 7
-  },
-  {
-    "Renner": "TELEMAQUE Jaheim",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "RAM Birma",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "SINGH Vishavjeet",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8940,23 +7820,8 @@
     "Points": 7
   },
   {
-    "Renner": "ARIAS Facundo",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "CÂMPEAN Cătălin-Luca",
     "Team": "Team United Shipping",
-    "Points": 7
-  },
-  {
-    "Renner": "DEL ROSARIO Juan Carlos",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "MUHAMMAD Shan",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -8985,21 +7850,6 @@
     "Points": 7
   },
   {
-    "Renner": "MACK Newell",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "FAKUDZE Calvin",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "MOHAMED ALI Thabet",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "LIU Zhicheng",
     "Team": "Camp Cycling Team",
     "Points": 7
@@ -9010,23 +7860,8 @@
     "Points": 7
   },
   {
-    "Renner": "JOHNSON Anders",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
     "Renner": "MATKARIMOV Mukhammed Ali",
     "Team": "Art Cycling Team",
-    "Points": 7
-  },
-  {
-    "Renner": "SHOKO Prince",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "KOH Dalvin",
-    "Team": NaN,
     "Points": 7
   },
   {
@@ -9040,43 +7875,8 @@
     "Points": 7
   },
   {
-    "Renner": "UTKIN Mikhail",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "VARGAS Leonis",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "COSME Leonardo",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "DOUANG-APHAY Khone",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "BERMOSKY Greg",
-    "Team": NaN,
-    "Points": 7
-  },
-  {
-    "Renner": "DE LEÓN Yariel",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "EARLE Nathan",
     "Team": "Kinan Racing Team",
-    "Points": 6
-  },
-  {
-    "Renner": "GONZALEZ Josue",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9085,18 +7885,8 @@
     "Points": 6
   },
   {
-    "Renner": "GOMES Luís",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "CLARK Boris",
     "Team": "St George Continental Cycling Team",
-    "Points": 6
-  },
-  {
-    "Renner": "REYES Aldemar",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9122,11 +7912,6 @@
   {
     "Renner": "CAMPOS Francisco",
     "Team": "APHotels & Resorts / Tavira / SC Farense",
-    "Points": 6
-  },
-  {
-    "Renner": "FUERTES Whashington Joel",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9160,11 +7945,6 @@
     "Points": 6
   },
   {
-    "Renner": "ED DOGHMY Achraf",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "DUCKERT Roman",
     "Team": "Team Storck - Metropol Cycling",
     "Points": 6
@@ -9172,11 +7952,6 @@
   {
     "Renner": "SWENNE Delano",
     "Team": "GRC Jan van Arckel",
-    "Points": 6
-  },
-  {
-    "Renner": "TASEVSKI Marjan",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9195,16 +7970,6 @@
     "Points": 6
   },
   {
-    "Renner": "RAMIREZ Yilber",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
-    "Renner": "ARAUJO Jhonny Alexander",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "VAN DE PUTTE Victor",
     "Team": "Lotto Development Team",
     "Points": 6
@@ -9215,11 +7980,6 @@
     "Points": 6
   },
   {
-    "Renner": "VYSOČAN Daniel",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "NIEHUES Sebastian",
     "Team": "Team Kern-Haus",
     "Points": 6
@@ -9227,11 +7987,6 @@
   {
     "Renner": "SIVOK Tomáš",
     "Team": "Pierre Baguette Cycling",
-    "Points": 6
-  },
-  {
-    "Renner": "QUINTERO Antoni Samuel",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9275,18 +8030,8 @@
     "Points": 6
   },
   {
-    "Renner": "SAIZONOU J. Glorad",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "GRUSZCZYNSKI Filip",
     "Team": "Biesse - Carrera - Premac",
-    "Points": 6
-  },
-  {
-    "Renner": "WOODS Tariq",
-    "Team": NaN,
     "Points": 6
   },
   {
@@ -9305,11 +8050,6 @@
     "Points": 6
   },
   {
-    "Renner": "CABALLERO Michael",
-    "Team": NaN,
-    "Points": 6
-  },
-  {
     "Renner": "HALTER Nicolas",
     "Team": "Thömus | WindowMaster by Wyss Training",
     "Points": 6
@@ -9322,11 +8062,6 @@
   {
     "Renner": "SOBAL Yauhen",
     "Team": "Chengdu DYC Cycling Team",
-    "Points": 5
-  },
-  {
-    "Renner": "FERNANDES Luís",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9350,48 +8085,13 @@
     "Points": 5
   },
   {
-    "Renner": "VINK Michael",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "CALMEJANE Lilian",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "PLANCKAERT Baptiste",
     "Team": "Van Rysel Roubaix",
     "Points": 5
   },
   {
-    "Renner": "CHALAPUD Robinson",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "LUDVIGSSON Tobias",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "CATALDO Dario",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "SELIG Rüdiger",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "VLIEGEN Loïc",
     "Team": "Wagner Bazin WB",
-    "Points": 5
-  },
-  {
-    "Renner": "SAGIV Guy",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9402,11 +8102,6 @@
   {
     "Renner": "WILLEMS Thimo",
     "Team": "VolkerWessels Cycling Team",
-    "Points": 5
-  },
-  {
-    "Renner": "SZABO Norbert",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9425,23 +8120,8 @@
     "Points": 5
   },
   {
-    "Renner": "MENDOZA Gabriel José",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "MUHINDO Kyaviro Jimmy",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "BALDACCINI Davide",
     "Team": "Team Solution Tech - Vini Fantini",
-    "Points": 5
-  },
-  {
-    "Renner": "PELEGRÍ Óscar",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9490,11 +8170,6 @@
     "Points": 5
   },
   {
-    "Renner": "TOBAR Cristian Camilo",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "NASER Ahmed",
     "Team": "Bahrain Victorious Development Team",
     "Points": 5
@@ -9507,11 +8182,6 @@
   {
     "Renner": "DENS Tuur",
     "Team": "Team Flanders - Baloise",
-    "Points": 5
-  },
-  {
-    "Renner": "VACEK Karel",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9540,18 +8210,8 @@
     "Points": 5
   },
   {
-    "Renner": "LUBEGA Abdbulnoor",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "VANDEVELDE Yentl",
     "Team": "Team Flanders - Baloise",
-    "Points": 5
-  },
-  {
-    "Renner": "WILLEMS Jago",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9685,11 +8345,6 @@
     "Points": 5
   },
   {
-    "Renner": "SUN Changsheng",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "BROWNING Fergus",
     "Team": "Hagens Berman Jayco",
     "Points": 5
@@ -9715,11 +8370,6 @@
     "Points": 5
   },
   {
-    "Renner": "GOYO Jesus Miguel",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "VAN DER WOUDE Casper",
     "Team": "Metec - SOLARWATT p/b Mantel",
     "Points": 5
@@ -9737,11 +8387,6 @@
   {
     "Renner": "GOMEZ Camilo Andres",
     "Team": "GW Erco Shimano",
-    "Points": 5
-  },
-  {
-    "Renner": "HANNAY Tyler",
-    "Team": NaN,
     "Points": 5
   },
   {
@@ -9805,16 +8450,6 @@
     "Points": 5
   },
   {
-    "Renner": "ULLAH Sana",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
-    "Renner": "DE LUCA Teodor",
-    "Team": NaN,
-    "Points": 5
-  },
-  {
     "Renner": "LUGTU Mike Piolo",
     "Team": "7Eleven Cliqq Roadbike Philippines",
     "Points": 5
@@ -9822,16 +8457,6 @@
   {
     "Renner": "CHAMAN Lauro Cesar",
     "Team": "Soul Cycles - Santos",
-    "Points": 4
-  },
-  {
-    "Renner": "ZURITA Gilver",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "VOSEKALNS Andris",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -9855,33 +8480,8 @@
     "Points": 4
   },
   {
-    "Renner": "TUGAWIN Ryan",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "VALVASORI Larry",
     "Team": "AC Bisontine",
-    "Points": 4
-  },
-  {
-    "Renner": "DE POORTER Maxime",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "ATENCIO Arquimides",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "LAŠINIS Venantas",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "MONESE Phetetso",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -9890,33 +8490,8 @@
     "Points": 4
   },
   {
-    "Renner": "PENG Yuan Tang",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "PLAATJIES Brandon",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "MALDONADO Anderson Samuel",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "CLAUSS Marc",
     "Team": "Team Kern-Haus",
-    "Points": 4
-  },
-  {
-    "Renner": "MOHSIN Khan",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "ALNAQBI Waleed",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -9990,18 +8565,8 @@
     "Points": 4
   },
   {
-    "Renner": "VIDAURRE Martín",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "SAUNDERS Tristan",
     "Team": "7Eleven Cliqq Roadbike Philippines",
-    "Points": 4
-  },
-  {
-    "Renner": "DEBAY Filimon Zerabruk",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10020,11 +8585,6 @@
     "Points": 4
   },
   {
-    "Renner": "MALKOV Kirill",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "MILLET Hugo",
     "Team": "Mayenne-V and B-Monbana",
     "Points": 4
@@ -10037,11 +8597,6 @@
   {
     "Renner": "MEDEIROS João",
     "Team": "Credibom / LA Alumínios / Marcos Car",
-    "Points": 4
-  },
-  {
-    "Renner": "FERREIRA Fernando Andres",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10060,28 +8615,13 @@
     "Points": 4
   },
   {
-    "Renner": "BEN AMEUR Hatem",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "URCEL Damien",
     "Team": "Team Madras Capesterre Belle-Eau",
     "Points": 4
   },
   {
-    "Renner": "PIHLJAK Tarik",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "BAK Simon",
     "Team": "BIKE AID",
-    "Points": 4
-  },
-  {
-    "Renner": "WEATHERED Sean",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10100,28 +8640,13 @@
     "Points": 4
   },
   {
-    "Renner": "QUARTERLY Thomas",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "MOOLMAN Warren",
     "Team": "Madar Pro Cycling Team",
     "Points": 4
   },
   {
-    "Renner": "ALMASHGHOUNI Omar",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "VALENT Márk",
     "Team": "MBH Bank Ballan CSB",
-    "Points": 4
-  },
-  {
-    "Renner": "QUIROZ Heriberto",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10140,16 +8665,6 @@
     "Points": 4
   },
   {
-    "Renner": "DAŠIĆ Milić",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "PETERS Delvin",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "DE MOYER Kenay",
     "Team": "Pauwels Sauzen - Cibel Clementines",
     "Points": 4
@@ -10160,23 +8675,8 @@
     "Points": 4
   },
   {
-    "Renner": "PIAT William",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "LI Shidong",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "AWANG ILAH Ahmad Syazrin",
     "Team": "Malaysia Pro Cycling",
-    "Points": 4
-  },
-  {
-    "Renner": "KEY Adrian",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10187,11 +8687,6 @@
   {
     "Renner": "ARSAC Rémi",
     "Team": "Bourg-en-Bresse Ain Cyclisme",
-    "Points": 4
-  },
-  {
-    "Renner": "CHAKAZA Amos",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10215,11 +8710,6 @@
     "Points": 4
   },
   {
-    "Renner": "MILAKONG Ananxay",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "CIPOLLINI Edoardo",
     "Team": "MBH Bank Ballan CSB",
     "Points": 4
@@ -10235,16 +8725,6 @@
     "Points": 4
   },
   {
-    "Renner": "BRICENO Jaylen",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "LIM BING YI Eamon",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "HECTOR Raphaël",
     "Team": "Veloce Club Rouen 76",
     "Points": 4
@@ -10255,18 +8735,8 @@
     "Points": 4
   },
   {
-    "Renner": "SINGH Simranjeet Singh",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "TRAVELLA Nicholas",
     "Team": "Velo Club Mendrisio",
-    "Points": 4
-  },
-  {
-    "Renner": "SALAS Josué",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10275,23 +8745,8 @@
     "Points": 4
   },
   {
-    "Renner": "JAMOLDINOV Alimardon",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "PRECUP Horea-Stefan",
     "Team": "MENtoRISE Teem CCN",
-    "Points": 4
-  },
-  {
-    "Renner": "HERBST Greg",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "ALPHONSO Von",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10305,33 +8760,13 @@
     "Points": 4
   },
   {
-    "Renner": "KELMENDI Agron",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "DAUMONT William",
     "Team": "Team Lockimmo.com",
     "Points": 4
   },
   {
-    "Renner": "LEI Kwok Hung",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "MARTINEZ Diler",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "ECHAHED Ahmed",
     "Team": "Sidi Ali - Unlock Team",
-    "Points": 4
-  },
-  {
-    "Renner": "CARUANA Andrew",
-    "Team": NaN,
     "Points": 4
   },
   {
@@ -10350,36 +8785,6 @@
     "Points": 4
   },
   {
-    "Renner": "MCKENZIE Finn",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "AYAD Eslam",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "LOPES LEITAO João Baptista",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "STEPHAN Carbon",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "JUMA Yousef",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
-    "Renner": "LODIGIANI Valerio",
-    "Team": NaN,
-    "Points": 4
-  },
-  {
     "Renner": "MERSEBURG Dominik",
     "Team": "Team Storck - Metropol Cycling",
     "Points": 3
@@ -10392,11 +8797,6 @@
   {
     "Renner": "BENYOUCEF Abdallah",
     "Team": "Madar Pro Cycling Team",
-    "Points": 3
-  },
-  {
-    "Renner": "RUIZ Juan José",
-    "Team": NaN,
     "Points": 3
   },
   {
@@ -10417,11 +8817,6 @@
   {
     "Renner": "VAN NIEKERK Morné",
     "Team": "St Michel - Preference Home - Auber93",
-    "Points": 3
-  },
-  {
-    "Renner": "GÓMEZ Luis",
-    "Team": NaN,
     "Points": 3
   },
   {
@@ -10455,11 +8850,6 @@
     "Points": 3
   },
   {
-    "Renner": "SKOT-HANSEN Aksel Bech",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
     "Renner": "MILES Carson",
     "Team": "Team Marni-N'side",
     "Points": 3
@@ -10472,11 +8862,6 @@
   {
     "Renner": "DUIJVESTEIJN Roy",
     "Team": "Universe Cycling Team",
-    "Points": 3
-  },
-  {
-    "Renner": "GUERREIRO Francisco",
-    "Team": NaN,
     "Points": 3
   },
   {
@@ -10500,11 +8885,6 @@
     "Points": 3
   },
   {
-    "Renner": "KARMAZHAKOV Sergey",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
     "Renner": "MIYAZAKI Taishi",
     "Team": "Kinan Racing Team",
     "Points": 3
@@ -10517,16 +8897,6 @@
   {
     "Renner": "SØNDERGAARD Oliver",
     "Team": "AIRTOX - Carl Ras",
-    "Points": 3
-  },
-  {
-    "Renner": "FRANCO Alejandro",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
-    "Renner": "GIERYK Kacper",
-    "Team": NaN,
     "Points": 3
   },
   {
@@ -10575,11 +8945,6 @@
     "Points": 3
   },
   {
-    "Renner": "ALFONSO Antonio",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
     "Renner": "LIGHTFOOT Mark",
     "Team": "AVC Aix Provence Dole",
     "Points": 3
@@ -10587,21 +8952,6 @@
   {
     "Renner": "GAILLARD Baptiste",
     "Team": "Excelsior",
-    "Points": 3
-  },
-  {
-    "Renner": "VONGDEUANE Thanakone",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
-    "Renner": "KELLEY Garin",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
-    "Renner": "NEFZI Yassine",
-    "Team": NaN,
     "Points": 3
   },
   {
@@ -10625,44 +8975,14 @@
     "Points": 3
   },
   {
-    "Renner": "LEMES Bruno Martins",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
     "Renner": "ABDELWAHAB Nurahmed",
     "Team": "As.Be.Co Cycling Club",
-    "Points": 3
-  },
-  {
-    "Renner": "MAESTRE Winston",
-    "Team": NaN,
     "Points": 3
   },
   {
     "Renner": "KIM Jongseok",
     "Team": "Korea Business Cycling",
     "Points": 3
-  },
-  {
-    "Renner": "TOSSAVI Ted",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
-    "Renner": "WARUTERE Ephantus Gicheru",
-    "Team": NaN,
-    "Points": 3
-  },
-  {
-    "Renner": "ALVARADO Adrian",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "FIGUEIREDO Frederico",
-    "Team": NaN,
-    "Points": 2
   },
   {
     "Renner": "CHAOUFI Tarik",
@@ -10680,18 +9000,8 @@
     "Points": 2
   },
   {
-    "Renner": "MALDONADO Ignacio Raúl",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "ISHIBASHI Manabu",
     "Team": "JCL Team UKYO",
-    "Points": 2
-  },
-  {
-    "Renner": "DURÁN Alejandro",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10710,16 +9020,6 @@
     "Points": 2
   },
   {
-    "Renner": "ALPÍZAR Andrés Jesús",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "LAKASEK Irwandie",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "KUDUS Merhawi",
     "Team": "Burgos Burpellet BH",
     "Points": 2
@@ -10735,48 +9035,13 @@
     "Points": 2
   },
   {
-    "Renner": "BYUKUSENGE Patrick",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "SANTOS Efrén",
     "Team": "Canel's - Java",
     "Points": 2
   },
   {
-    "Renner": "BURU Temesgen",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "DE KOE Denzel",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "ROGIER Stef",
     "Team": "Team Thielemans - De Hauwere",
-    "Points": 2
-  },
-  {
-    "Renner": "RICHARDSON Che'Quan",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "SIBANDA Mthokozisi",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "KINJAH David",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "PARRA Carlos Andres",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10800,16 +9065,6 @@
     "Points": 2
   },
   {
-    "Renner": "LAO Long San",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MASON James Brock",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "KNOLLE Jon",
     "Team": "REMBE | rad-net",
     "Points": 2
@@ -10817,21 +9072,6 @@
   {
     "Renner": "DAEMEN Stijn",
     "Team": "VolkerWessels Cycling Team",
-    "Points": 2
-  },
-  {
-    "Renner": "MUN Yong Liang",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "GIERACKI Patryk",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "BONNICI Mark",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10847,11 +9087,6 @@
   {
     "Renner": "ARIAS Sergio",
     "Team": "Colono Bikestation Kölbi",
-    "Points": 2
-  },
-  {
-    "Renner": "BUDA Simone",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10877,11 +9112,6 @@
   {
     "Renner": "MARCHUK Dzianis",
     "Team": "Shenzhen Kung Cycling Team",
-    "Points": 2
-  },
-  {
-    "Renner": "POPOV Martin",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10915,18 +9145,8 @@
     "Points": 2
   },
   {
-    "Renner": "REES Oliver",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "KELLY Adam",
     "Team": "Mg.K Vis Costruzioni e Ambiente",
-    "Points": 2
-  },
-  {
-    "Renner": "MURILLO Luis Esteban",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -10935,23 +9155,8 @@
     "Points": 2
   },
   {
-    "Renner": "LORENZO Randish Abdul",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "BIN FAISAL Arfan",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "TUIZ Victor Alfonso",
     "Team": "Hino-One-La red-Suzuki",
-    "Points": 2
-  },
-  {
-    "Renner": "SELIMOVIĆ Husein",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11000,16 +9205,6 @@
     "Points": 2
   },
   {
-    "Renner": "TSUDA Yugi",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "ALONSO Agustín",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "PAVLIDES Konstantinos",
     "Team": "Novapor Theseus SportsClub",
     "Points": 2
@@ -11030,11 +9225,6 @@
     "Points": 2
   },
   {
-    "Renner": "KLOPPER Christiaan",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "ARAMAYO Jose Manuel",
     "Team": "Pío Rico Cycling Team",
     "Points": 2
@@ -11042,11 +9232,6 @@
   {
     "Renner": "DE LOS SANTOS GUZMAN Hector",
     "Team": "Fenix",
-    "Points": 2
-  },
-  {
-    "Renner": "MAULIDAN Muhammad",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11100,11 +9285,6 @@
     "Points": 2
   },
   {
-    "Renner": "HURTADO Josué Oswaldo",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "RUIZ Jeferson Armando",
     "Team": "GW Erco Shimano",
     "Points": 2
@@ -11150,11 +9330,6 @@
     "Points": 2
   },
   {
-    "Renner": "CODD Shawn",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "MÜLLER Jonas",
     "Team": "CLN",
     "Points": 2
@@ -11190,23 +9365,8 @@
     "Points": 2
   },
   {
-    "Renner": "CHARLES Karega",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "BASARABA Mykhailo",
     "Team": "UC Monaco",
-    "Points": 2
-  },
-  {
-    "Renner": "BINAKAJ Valon",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "ILBOUDO Soumaila",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11275,21 +9435,6 @@
     "Points": 2
   },
   {
-    "Renner": "POHLENZ Marian",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "RODRIGUES SILVA Luan Carlos",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "DJIRE Daouda",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "MAULANA Astnan",
     "Team": "Nusantara - BYC",
     "Points": 2
@@ -11317,11 +9462,6 @@
   {
     "Renner": "DARZI RAMANDI Mohammad",
     "Team": "Vride",
-    "Points": 2
-  },
-  {
-    "Renner": "YOUSAF Yousaf",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11385,28 +9525,13 @@
     "Points": 2
   },
   {
-    "Renner": "GEORGE Kirtson",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "BAILEY Barrington",
     "Team": "Elevation Cycling Club",
     "Points": 2
   },
   {
-    "Renner": "FUENTES Jose",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "COLE Owen",
     "Team": "Team Winston Salem - Flow",
-    "Points": 2
-  },
-  {
-    "Renner": "BÁRÐARSON Þorsteinn",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11417,11 +9542,6 @@
   {
     "Renner": "PAGARA Alexis",
     "Team": "Victoria Sports Pro Cycling",
-    "Points": 2
-  },
-  {
-    "Renner": "JIANG Yipei",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11440,11 +9560,6 @@
     "Points": 2
   },
   {
-    "Renner": "KUMAR Sahil",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "GUAY Mathis",
     "Team": "AVC Aix Provence Dole",
     "Points": 2
@@ -11452,26 +9567,6 @@
   {
     "Renner": "GRIECO Lucas",
     "Team": "AVC Aix Provence Dole",
-    "Points": 2
-  },
-  {
-    "Renner": "LUO Pengpeng",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MUSAMBA Elias",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "KUMAR Dinesh",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "HOUETO Emile",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11520,16 +9615,6 @@
     "Points": 2
   },
   {
-    "Renner": "BERDEMPES Konstantinos",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "ASIF Asif",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "LEBO Joshua",
     "Team": "Jamison Racing Team",
     "Points": 2
@@ -11540,38 +9625,8 @@
     "Points": 2
   },
   {
-    "Renner": "FERNANDEZ Kendall",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MACEDO Paulo Raphael Cliver",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "LE NY Benjamin",
     "Team": "Team Cama CCD",
-    "Points": 2
-  },
-  {
-    "Renner": "LÓPEZ Alan Moises",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "PIEDRA CUELLAR Joselin",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "XU Shi Ru",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MASEMOLA Rodney",
-    "Team": NaN,
     "Points": 2
   },
   {
@@ -11585,128 +9640,13 @@
     "Points": 2
   },
   {
-    "Renner": "HADŽIABLAHOVIĆ Hasan",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "VAREA José Daniel",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
     "Renner": "OVIDIU Dorcu",
     "Team": "Monzon - Incolor - Gub",
     "Points": 2
   },
   {
-    "Renner": "MENVILAY Sonsoulisack",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MOVLONBERDIYEV Mustafo",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MONTEIRO DIAS Gilberto",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "NIYONSABA David",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MED YASSINE Chehibi",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "WAIRIMU Kamau Peterson",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "TLOUOE Thato",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "TYAPA Ongeziwe",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "SIYANDA Gumede",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MOTSA Thabiso",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "VÁZQUEZ Óscar A.",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "KASULE Fred",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "AL REJJAL Mohammad",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "NORVIN Andrey",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "MORGAN Carl",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "FRASER Caelan",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "SAVIĆ Živko",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "ĆELIĆ Stanko",
-    "Team": NaN,
-    "Points": 2
-  },
-  {
-    "Renner": "HO Kai Fong",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "RODRIGUEZ Ruddy",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "NISU Oskar",
     "Team": "Quick Pro Team",
-    "Points": 1
-  },
-  {
-    "Renner": "HUNG Kun Hung",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11722,11 +9662,6 @@
   {
     "Renner": "SILVA Bruno",
     "Team": "Tavfer-Ovos Matinados-Mortágua",
-    "Points": 1
-  },
-  {
-    "Renner": "ALIZADEH Hossein",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11755,11 +9690,6 @@
     "Points": 1
   },
   {
-    "Renner": "STEWART Robert Liam",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "TANFIELD Harry",
     "Team": "Hubo - Scott CT",
     "Points": 1
@@ -11770,28 +9700,13 @@
     "Points": 1
   },
   {
-    "Renner": "SILVA Igor",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "GABORIAUD Guillaume",
     "Team": "USR Vélo Sotranfamat",
     "Points": 1
   },
   {
-    "Renner": "MARTÍNEZ Salvador",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "MORALES Esdras",
     "Team": "Eca Electricidad Ciclismo",
-    "Points": 1
-  },
-  {
-    "Renner": "PAREDES Anderson Timoteo",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11805,11 +9720,6 @@
     "Points": 1
   },
   {
-    "Renner": "ISHIGAMI Masahiro",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "MAGOSAKI Daiki",
     "Team": "Victoire Hiroshima",
     "Points": 1
@@ -11820,18 +9730,8 @@
     "Points": 1
   },
   {
-    "Renner": "HODGE Justin",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "BICKMORE Cade",
     "Team": "Project Echelon Racing",
-    "Points": 1
-  },
-  {
-    "Renner": "NAVARRETE Maximiliano Ezequiel",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11850,21 +9750,6 @@
     "Points": 1
   },
   {
-    "Renner": "STRAH Alex Antonio",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "CUBIDES Cristian Camilo",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "ROA Kevin",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "BIERKENS Tim",
     "Team": "Monda Vakantieparken - IJsselstreek",
     "Points": 1
@@ -11872,11 +9757,6 @@
   {
     "Renner": "HOPPEZAK Vincent",
     "Team": "Parkhotel Valkenburg",
-    "Points": 1
-  },
-  {
-    "Renner": "KARL Ádám Kristóf",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11895,11 +9775,6 @@
     "Points": 1
   },
   {
-    "Renner": "KIRIAKIDIS Ioannis",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "MENDOZA Aidan James",
     "Team": "Go For Gold Philippines",
     "Points": 1
@@ -11910,23 +9785,8 @@
     "Points": 1
   },
   {
-    "Renner": "VOLLMER Andrew",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "PLAMONDON Robin",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "CLAVIER Kendric",
     "Team": "Team Cama CCD",
-    "Points": 1
-  },
-  {
-    "Renner": "SEMENOV Alexandr",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11947,11 +9807,6 @@
   {
     "Renner": "DOMÍNGUEZ David",
     "Team": "Aviludo - Louletano - Loulé",
-    "Points": 1
-  },
-  {
-    "Renner": "REXHA Betim",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -11990,11 +9845,6 @@
     "Points": 1
   },
   {
-    "Renner": "NG Wing Chung",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "ROSERO Nixon Efrain",
     "Team": "Movistar Best PC",
     "Points": 1
@@ -12002,16 +9852,6 @@
   {
     "Renner": "DYANKOV Nikolay",
     "Team": "Hemus Troyan",
-    "Points": 1
-  },
-  {
-    "Renner": "CAIZA Erik Daniel",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "LAYMOND Maxime",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12060,11 +9900,6 @@
     "Points": 1
   },
   {
-    "Renner": "VINDECS Agris",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "HASHIKAWA Jo",
     "Team": "Aisan Racing Team",
     "Points": 1
@@ -12077,11 +9912,6 @@
   {
     "Renner": "PALMISTE Philgy Marc",
     "Team": "Convergence SC Abymienne Propreté 2000",
-    "Points": 1
-  },
-  {
-    "Renner": "STÖCKLI Jan",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12110,11 +9940,6 @@
     "Points": 1
   },
   {
-    "Renner": "NAKKEN Tobias Risan",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "STORM Theodor",
     "Team": "Team Lotto Kern-Haus PSD Bank",
     "Points": 1
@@ -12122,11 +9947,6 @@
   {
     "Renner": "NIELSEN Daniel Weis",
     "Team": "Decathlon AG2R La Mondiale Development Team",
-    "Points": 1
-  },
-  {
-    "Renner": "ALARCÓN Julian David",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12140,16 +9960,6 @@
     "Points": 1
   },
   {
-    "Renner": "REVELO Franklin Joel",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "PODŽIĆ Mujo",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "BOZZOLA Mirko",
     "Team": "S.C. Padovani Polo Cherry Bank",
     "Points": 1
@@ -12157,11 +9967,6 @@
   {
     "Renner": "BESSEGA Gabriele",
     "Team": "Biesse - Carrera - Premac",
-    "Points": 1
-  },
-  {
-    "Renner": "CADET Sonny",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12177,11 +9982,6 @@
   {
     "Renner": "INJYENYER Bilguun",
     "Team": "Quick Pro Team",
-    "Points": 1
-  },
-  {
-    "Renner": "KASAPIS Andreas",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12205,23 +10005,8 @@
     "Points": 1
   },
   {
-    "Renner": "ALHAMMADI Abdulla Sultan",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "KAITA Simon",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "DRIESEN Niels",
     "Team": "Lotto Development Team",
-    "Points": 1
-  },
-  {
-    "Renner": "CHANDI Edwin",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12232,11 +10017,6 @@
   {
     "Renner": "SANCHEZ Clément",
     "Team": "Vendée U Pays de la Loire",
-    "Points": 1
-  },
-  {
-    "Renner": "DIAMOUTENE Tiemoko",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12275,16 +10055,6 @@
     "Points": 1
   },
   {
-    "Renner": "MALDONADO Carlos Mauri",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "VAN WEELE Jannes",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "CARSTENSEN Magnus",
     "Team": "EF Education - Aevolo",
     "Points": 1
@@ -12292,11 +10062,6 @@
   {
     "Renner": "KUBROM Awet",
     "Team": "As.Be.Co Cycling Club",
-    "Points": 1
-  },
-  {
-    "Renner": "TRAJKOSKI Petar",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12315,33 +10080,8 @@
     "Points": 1
   },
   {
-    "Renner": "SAHIRI Ali Zakaria",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "KIM Sunjae",
     "Team": "Korea Business Cycling",
-    "Points": 1
-  },
-  {
-    "Renner": "ANDE Kouadio Emmanuel Adebayor",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "CONNOLLY Kevin",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "KAPIL Naman",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "ALZAABI Ismael Humaid",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12352,11 +10092,6 @@
   {
     "Renner": "DAUMAS Rémi",
     "Team": "Equipe continentale Groupama-FDJ",
-    "Points": 1
-  },
-  {
-    "Renner": "CÁRDENAS VÁSQUEZ Vicente",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12375,11 +10110,6 @@
     "Points": 1
   },
   {
-    "Renner": "ULLAH Sadiq",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "BRINKMAN David",
     "Team": "Global Cycling Team",
     "Points": 1
@@ -12390,23 +10120,8 @@
     "Points": 1
   },
   {
-    "Renner": "MOHAMMED Abdulwahhab",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "NEMATOV Abdurahmon",
     "Team": "OU7 Cycling Team",
-    "Points": 1
-  },
-  {
-    "Renner": "MAROT Jérémy",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "LOPEZ Bryant Rafael",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12435,28 +10150,8 @@
     "Points": 1
   },
   {
-    "Renner": "PONTES Bairon",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "ZENG Yi Wei",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "VANGSØ NIELSEN Thor",
     "Team": "Team Aalborg - Sparekassen Danmark",
-    "Points": 1
-  },
-  {
-    "Renner": "JIMENEZ Neftali Josue",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "HANGA Petrus",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12465,28 +10160,8 @@
     "Points": 1
   },
   {
-    "Renner": "PORTELLI Matthew",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "BOAZ KANGOGO Kipkosgei",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "JACOBS Mees",
     "Team": "Wielerploeg Groot Amsterdam",
-    "Points": 1
-  },
-  {
-    "Renner": "PUHAKKA Juuso",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "RINGER Daniel",
-    "Team": NaN,
     "Points": 1
   },
   {
@@ -12495,88 +10170,8 @@
     "Points": 1
   },
   {
-    "Renner": "GIDEY Hailemichael Amanuel",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "URBINA Alexander",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "OZUNA Marcos",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "ZHENG Zhang",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
     "Renner": "OSIPOV Daniil",
     "Team": "CNC Cycling Team",
-    "Points": 1
-  },
-  {
-    "Renner": "MALTSEV Daniil",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "FAQEER Bilal",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "OMRAN Abdelrahman",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "CORREA Pablo",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "AIRUDIN Muhammad Raihan Bin Mohd",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "ORTIZ Orlando",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "LUKOVIĆ Danilo",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "MAVUSO Nkosingiphile",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "AZIZI Sempijja",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "COSTA Guy",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "LESWI Mohammad",
-    "Team": NaN,
-    "Points": 1
-  },
-  {
-    "Renner": "DONOVAN Shane",
-    "Team": NaN,
     "Points": 1
   }
 ]
